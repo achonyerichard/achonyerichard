@@ -1,6 +1,6 @@
 - 👋 Hi, I’mRichard
 - 👀 I’m interested in frontend web development looking to dabble in a bit of backend
-- 🌱 I’m currently learning javascript and reactjs
+- 🌱 I’m currently a React developer
 - 💞️ I’m looking to collaborate on any project and work
 - 📫 How to reach me +2348159807048 or achonyerichard@gmail.com
 
