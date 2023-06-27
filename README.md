@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Achonye Richard</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate frontend Web and Mobile Developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **Nuxtjs and Nodejs**
+- 🌱 I’m currently learning **Express and Nodejs**
 
-- 👯 I’m looking to collaborate on **React projects**
+- 👯 I’m looking to collaborate on **Web and Mobile projects**
 
-- 💬 Ask me about **React, Tailwind, Javascript**
+- 💬 Ask me about **React, Tailwind, Javascript, React Native**
 
 - 📫 How to reach me **achonyerichard@gmail.com**
 
