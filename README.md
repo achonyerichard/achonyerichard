@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning **Node and Express**
+- 🌱 I’m currently working with **Node and Express**
 
 - 👯 I’m looking to collaborate on **Web and Mobile projects**
 
