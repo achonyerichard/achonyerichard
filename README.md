@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate frontend developer based in the United Kingdom</h3>
 
 
 
